@@ -35,4 +35,4 @@ I am Md Rashedul Alam Anik, currently working as a Software Engineer at the [Eno
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LucasGabrielfl0&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LucasGabrielfl0.LucasGabrielfl0)
