@@ -14,5 +14,5 @@
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LucasGabrielfl0&layout=compact&theme=dark&langs_count=6" />
   </a>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielfl0&hide=javascript,css,scss,html&theme=tokyonight)
 
