@@ -1,8 +1,8 @@
 ## Hey there, stranger! I'm Gabriel 👋
   A little bit of info about me:
 -  I’m a Control and Automation (Aka Mechatronics) Engineering student at UFPE.
--  This is a new account, i'm still in the process of importing some stuff!
--  Currently Working on Embedded software
+-  My main field is Control Theory, so i usually drop some study material alongside any control related repository
+-  Currently Working on Embedded software for electric vehicles
 
 
 
