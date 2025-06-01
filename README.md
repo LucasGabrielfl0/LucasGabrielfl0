@@ -14,7 +14,7 @@ Also, most of my simulink files were made with MATLAB 2023b
 ##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Other Info:**
 
 <a href="https://github.com/LucasGabrielfl0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielfl0&hide=javascript,jupyter%20notebook,css,scss,python,html&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielfl0&hide=javascript,jupyter%20notebook,css,scss,python,limbo,html&theme=dark&hide_langs_below=1" />
 </a>
 
 
