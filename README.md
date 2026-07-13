@@ -16,5 +16,5 @@ Some of my projects:
 ##  [ATLAS-Dashboard](https://github.com/LucasGabrielfl0/Cubesat-Dashboard)
 </p>
 <p align="center">
-<img width="1000" height="500" alt="Dashboard_" src="https://github.com/user-attachments/assets/158072af-f76f-4412-ad8a-b3dc8db03f71" />
+<img width="1000" height="600" alt="Dashboard_" src="https://github.com/user-attachments/assets/158072af-f76f-4412-ad8a-b3dc8db03f71" />
 </p>
